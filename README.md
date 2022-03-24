@@ -28,7 +28,7 @@ Make sure to have them installed on your computer.
 ```
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ErtonDev/Versor/main/images/Versor_008.png" width="275"/>
-  <img src="https://raw.githubusercontent.com/ErtonDev/Versor/main/images/Versor_009.png" width="275"/>
-  <img src="https://raw.githubusercontent.com/ErtonDev/Versor/main/images/Versor_010.png" width="275"/>
+  <img src="https://raw.githubusercontent.com/ErtonDev/Versor/main/images/Versor_008.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/ErtonDev/Versor/main/images/Versor_009.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/ErtonDev/Versor/main/images/Versor_010.png" width="250"/>
 </p>
